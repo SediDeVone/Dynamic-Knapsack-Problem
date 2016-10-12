@@ -1,0 +1,13 @@
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.exe
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\bin\Debug\zaladunek3.exe
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\bin\Debug\zaladunek3.pdb
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.csprojResolveAssemblyReference.cache
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.pdb
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.MainWindow.resources
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.csproj.GenerateResource.Cache
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.SimulationWindow.resources
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.ProductWindow.resources
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.ProductList.resources
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.RemoveItemForm.resources
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.MessageWindow.resources
+C:\Users\Sedi\Downloads\zaladunek\zaladunek3\zaladunek3\obj\x86\Debug\zaladunek3.Properties.Resources.resources

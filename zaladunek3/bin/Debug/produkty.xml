@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<produkty>
+	<produkt name="tv" size="2" value="500"/>
+	<produkt name="pralka" size="3" value="2000"/>
+	<produkt name="lodowka" size="5" value="1500"/>
+	<produkt name="radio" size="1" value="200"/>
+</produkty>

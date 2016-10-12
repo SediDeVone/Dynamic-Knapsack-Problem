@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kontenery>
+	<kontener type="ciezarowka" size="15" />
+	<kontener type="statek" size="100" />
+</kontenery>
